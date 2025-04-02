@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonConstantsGenerator", "JsonConstantsGenerator\JsonConstantsGenerator.csproj", "{702ABB4B-E686-4215-AA9B-9BDF5EBCEC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonConstantsGenerator.Sample", "JsonConstantsGenerator.Sample\JsonConstantsGenerator.Sample.csproj", "{41C64892-77CE-4D5D-B28B-AB1BB3469708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonConstantsGenerator.Tests", "JsonConstantsGenerator.Tests\JsonConstantsGenerator.Tests.csproj", "{66D29651-DE7E-4185-8353-29F967E5D66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702ABB4B-E686-4215-AA9B-9BDF5EBCEC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702ABB4B-E686-4215-AA9B-9BDF5EBCEC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702ABB4B-E686-4215-AA9B-9BDF5EBCEC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702ABB4B-E686-4215-AA9B-9BDF5EBCEC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C64892-77CE-4D5D-B28B-AB1BB3469708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C64892-77CE-4D5D-B28B-AB1BB3469708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C64892-77CE-4D5D-B28B-AB1BB3469708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C64892-77CE-4D5D-B28B-AB1BB3469708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D29651-DE7E-4185-8353-29F967E5D66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D29651-DE7E-4185-8353-29F967E5D66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D29651-DE7E-4185-8353-29F967E5D66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D29651-DE7E-4185-8353-29F967E5D66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
