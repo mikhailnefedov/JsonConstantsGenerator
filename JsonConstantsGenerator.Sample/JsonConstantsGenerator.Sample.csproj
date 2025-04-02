@@ -10,4 +10,8 @@
         <ProjectReference Include="..\JsonConstantsGenerator\JsonConstantsGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
     </ItemGroup>
 
+    <ItemGroup>
+       <AdditionalFiles Include="Files/*" />
+    </ItemGroup>
+
 </Project>
