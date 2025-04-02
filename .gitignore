@@ -1,6 +1,4 @@
-/JsonConstantsGenerator.Sample/obj/
-/JsonConstantsGenerator/obj/
-/JsonConstantsGenerator/bin/
-/JsonConstantsGenerator.Sample/bin/
-/JsonConstantsGenerator.Tests/bin/
-/JsonConstantsGenerator.Tests/obj/
+**/obj/
+**/bin/
+
+.idea/*
