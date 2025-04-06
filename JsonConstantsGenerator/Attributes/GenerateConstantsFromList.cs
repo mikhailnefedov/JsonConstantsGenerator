@@ -16,4 +16,9 @@ public class GenerateConstantsFromList : Attribute
     /// 
     /// </summary>
     public string? ClassName { get; set; }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    public string? SelectorField { get; set; }
 }

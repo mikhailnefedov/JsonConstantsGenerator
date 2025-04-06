@@ -2,8 +2,7 @@ using JsonConstantsGenerator.Attributes;
 
 namespace JsonConstantsGenerator.Sample;
 
-//[GenerateConstantsFromList]
-public class GermanColors
+[GenerateConstantsFromList]
+public class EnglishColors
 {
-    
 }
